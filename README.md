@@ -40,8 +40,9 @@ ELIZA: Could you elaborate about this?
 
 ### Run via Command Line
 
-```bash
+bash
 python eliza_chatbot.py
+
 
 ### Run via Jupyter Notebook
 
