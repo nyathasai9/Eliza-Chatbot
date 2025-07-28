@@ -18,8 +18,10 @@ The chatbot uses pattern matching to detect user intents and responds with rando
 
 ### Example:
 
-User: I am feeling sad.
-ELIZA: Could you elaborate about this?
+> I feel sad.
+> Could you elaborate about this?
+> How often do you usually feel sad?
+> Since when are you feeling this sad?
 
 
 ---
